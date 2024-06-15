@@ -1,0 +1,55 @@
+ body{
+    background-color: black;
+}
+.fun a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    color: whitesmoke;
+    overflow: hidden;
+}
+.fun{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.fun a{
+float: left;
+}
+.fun a:hover{
+    color: grey;
+}
+
+.hoe{
+    color: white;
+}
+.round{
+    border-radius: 10px;
+}
+.t{
+    color: gray;
+    cursor: pointer;
+}
+.t:hover{
+    color: whitesmoke;
+}
+.pad{
+    padding: 12px;
+    
+}
+.check{
+    background-color: grey;
+} 
+.age:hover{
+    color: grey;
+    cursor: pointer;
+}
+.lad{
+    padding: 40px;
+}
+.button{
+    border-radius: 10px;
+    text-align: center;
+   
+}

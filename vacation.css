@@ -1,0 +1,96 @@
+body{
+    background-color: black;
+    background-image: url(istockphoto-1392157204-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}    
+
+
+.fun a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    color: whitesmoke;
+    overflow: hidden;
+}
+.fun{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.fun a{
+float: left;
+}
+.fun a:hover{
+    color: black;
+}
+
+
+
+.bt{
+    background-color: antiquewhite;
+    border-radius: 150px;
+    
+    
+    
+}
+.book{
+    text-align: right;
+}
+
+.bt{
+    cursor: pointer;
+}
+.bt:hover{
+    background-color: grey;
+}
+.ted1{
+    color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+.tw{
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+.choice a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 90px;
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+    
+}
+.choice{
+    list-style-type: none;
+    margin: 50px;
+    padding: -500px;
+}
+.choice a{
+    float: left;
+}
+.choice a:hover{
+    color: gray;
+}
+/* .bt2{
+border: 10px;
+border-radius: 10px;
+background-color: orange;
+}
+.search a{
+text-decoration: none;
+color: black;
+
+
+}
+.bt2:hover{
+    background-color: orangered;
+} 
